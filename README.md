@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Sebastián Leyva
 
-<!--
-**Sebastianleyva/Sebastianleyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante y desarrollador en formación, apasionado por la programación, el análisis de datos y el desarrollo de soluciones tecnológicas que resuelvan problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo en proyectos relacionados con:
+
+* 💻 Desarrollo de software
+* 📱 Aplicaciones móviles con React Native y Expo
+* 🐍 Programación en Python
+* 🗄️ Bases de datos PostgreSQL
+* 🤖 Machine Learning y análisis de datos
+* 🌐 Control de versiones con Git y GitHub
+
+---
+
+## 📚 Actualmente aprendiendo
+
+* Arquitectura de software
+* Machine Learning aplicado
+* Desarrollo móvil avanzado
+* Integración de APIs
+* DevOps y despliegue de aplicaciones
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact)
+
+---
+
+## 📫 Contacto
+
+Puedes encontrarme en GitHub para colaborar en proyectos, compartir conocimientos y seguir aprendiendo nuevas tecnologías.
+
+---
+
+> "La mejor forma de aprender programación es construyendo proyectos reales."
