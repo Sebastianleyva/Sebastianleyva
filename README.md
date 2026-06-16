@@ -27,9 +27,9 @@ Actualmente trabajo en proyectos relacionados con:
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebastianleyva\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastianleyva\&layout=compact)
 
 ---
 
