@@ -9,9 +9,8 @@ Actualmente trabajo en proyectos relacionados con:
 * 💻 Desarrollo de software
 * 📱 Aplicaciones móviles con React Native y Expo
 * 🐍 Programación en Python
-* 🗄️ Bases de datos PostgreSQL
+* 🗄️ Bases de datos PostgreSQL 
 * 🤖 Machine Learning y análisis de datos
-* 🌐 Control de versiones con Git y GitHub
 
 ---
 
