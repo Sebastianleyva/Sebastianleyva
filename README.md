@@ -26,9 +26,11 @@ Actualmente trabajo en proyectos relacionados con:
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sebastianleyva&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sebastianleyva&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sebastianleyva&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sebastianleyva&layout=compact&theme=tokyonight" width="48%" />
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sebastianleyva&show_icons=true&theme=tokyonight&count_private=true)
+</p>
 ---
 
 ## 📫 Contacto
