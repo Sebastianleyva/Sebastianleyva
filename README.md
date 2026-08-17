@@ -26,7 +26,7 @@ Actualmente trabajo en proyectos relacionados con:
 
 ## 📈 Estadísticas de GitHub
 
-  <p align="center">
+<p align="center">
   <img src="https://github-readme-stats-6a90f1frm-sebastian-rivera.vercel.app/api?username=Sebastianleyva&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats-6a90f1frm-sebastian-rivera.vercel.app/api/top-langs/?username=Sebastianleyva&layout=compact&theme=tokyonight" width="48%" />
 </p>
